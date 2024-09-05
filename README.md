@@ -1,8 +1,6 @@
 # Basic_Emotion_Detection1
-This code is used to create a simple emotion tracking softwre that can distinguish between 5 
+My first project being epxosed to Computer Vision and ML, is used to create a simple emotion tracking softwre that can distinguish between 5 
 different emotions (Happy, Sad, Neutral, Surprise, Anger).
-Accomplished by implementing preset models and algorithms such as the haar cascasde model 
-that uses machine learning through tensorflow and keras, to process the data of facial recognition
-in open computer vision.
+Accomplished by training preset model on AffectNet dataset and utilizing HaarCascase for face detection.
 
-Currently developing advanced version of this as well as implementation software #comingsoon
+Advanced version of this project was implemented to create VR environment that transformed with user displayed emotions.
